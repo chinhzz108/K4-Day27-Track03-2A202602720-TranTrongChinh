@@ -1,6 +1,11 @@
 # Day27 — Track 3: HITL PR Review Agent
 
+**Học viên:** Trần Trọng Chinh  
+**Mã học viên:** 2A202602720  
+**GitHub:** chinhzz108  
+
 A 2-hour lab that builds a human-in-the-loop pull-request review agent in **LangGraph**, end-to-end.
+
 
 > 1. Agent reads a PR, analyzes code changes, proposes review comments.
 > 2. Confidence ~72% → show diff + reasoning → user approves → agent commits the review.
